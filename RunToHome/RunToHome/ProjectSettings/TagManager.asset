@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - HealthBar
+  - EndLine
+  - ReleaseBar
+  - ReleaseButton
+  - GameManager
+  - Menu
+  - ShopPanel
+  - MenuButton
+  - AdventurePlayer
+  - LoadingBar
+  - LoadingBarWhite
+  - box
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - playerAdventure
+  - backgroundAdventure
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1786581181
+    locked: 0
+  - name: Obstacle
+    uniqueID: 2203171963
+    locked: 0
+  - name: Player
+    uniqueID: 3250116629
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3846185921
+    locked: 0
+  - name: backgroundAdventure
+    uniqueID: 3516139961
+    locked: 0
+  - name: itemAdventure
+    uniqueID: 636969217
+    locked: 0
+  - name: playerAdventure
+    uniqueID: 1294759443
+    locked: 0
